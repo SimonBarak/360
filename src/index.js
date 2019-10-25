@@ -31,7 +31,7 @@ var isUserInteracting = true,
 // init(paths[window.current]);
 // animate();
 
-init("/textures/img3.jpg");
+init("/textures/img4.jpg");
 animate();
 
 function init(texture) {
