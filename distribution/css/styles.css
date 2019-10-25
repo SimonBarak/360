@@ -1,0 +1,21 @@
+body {
+  background-color: #000000;
+  margin: 0px;
+  overflow: hidden;
+  touch-action: none;
+}
+
+button {
+  position: fixed;
+  top: 0;
+}
+
+a {
+  color: #ffffff;
+}
+
+.embed {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+}
