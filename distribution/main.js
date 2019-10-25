@@ -126,7 +126,7 @@ var isUserInteracting = true,
 // init(paths[window.current]);
 // animate();
 
-init("distribution/textures/img4.jpg");
+init("/textures/img4.jpg");
 animate();
 
 function init(texture) {
